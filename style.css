@@ -12,6 +12,7 @@ body {
 .header {
   display: flex;
   align-items: center;
+  text-align: center;
   padding: 20px;
   background-color: #fff8f0; /* Optional styling */
 }
