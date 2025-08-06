@@ -25,6 +25,7 @@ body {
 
 /* Text part next to the logo */
 .header-text h1 {
+  align-items: center;
   text-align: center;
   margin: 0;
   font-size: 1.8rem;
@@ -32,6 +33,7 @@ body {
 
 .header-text .tagline {
   text-align: center;
+  align-items: center;
   margin: 5px 0 0;
   font-size: 1rem;
   color: #444;
