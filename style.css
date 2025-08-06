@@ -10,8 +10,6 @@ body {
 
 /* Header layout with flexbox */
 .header {
-  display: flex;
-  align-items: center;
   text-align: center;
   padding: 20px;
   background-color: #fff8f0; /* Optional styling */
@@ -26,17 +24,13 @@ body {
 
 /* Text part next to the logo */
 .header-text h1 {
-  align-items: center;
-  text-align: center;
   margin: 0;
-  font-size: 1.8rem;
+  font-size: 2.5rem;
 }
 
 .header-text .tagline {
-  text-align: center;
-  align-items: center;
-  margin: 5px 0 0;
-  font-size: 1rem;
+  font-size: 1.2rem;
+  font-style: italic;
   color: #444;
 }
 
